@@ -87,9 +87,11 @@ body{
 
 .pokemonName{
     position: absolute;
-    width: 580px;
+    font-size: 90pt;
+    font-weight: bolder;
     left: 15%;
     top: 35%;
+    color: rgba(0, 0, 0, 0.134);
 
 }
 
